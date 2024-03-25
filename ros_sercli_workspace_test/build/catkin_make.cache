@@ -1,0 +1,2 @@
+control:get:learn_time:my_TF:print_pose:test
+-DCATKIN_DEVEL_PREFIX=/home/yan/workspace/ros_sercli_workspace_test/devel -DCMAKE_INSTALL_PREFIX=/home/yan/workspace/ros_sercli_workspace_test/install -G Unix Makefiles

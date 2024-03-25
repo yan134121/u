@@ -1,0 +1,8 @@
+prefix=/home/yan/workspace/ros_sercli_workspace_test/install
+
+Name: learn_time
+Description: Description of learn_time
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+<robot name ="mycar">
+    <link name = "base_link">

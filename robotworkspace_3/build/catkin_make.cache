@@ -1,0 +1,2 @@
+Hector_ROS_Simulation/hector_control:Hector_ROS_Simulation/hector_description:Hector_ROS_Simulation/unitree_ros/unitree_controller:Hector_ROS_Simulation/unitree_ros/unitree_gazebo:Hector_ROS_Simulation/unitree_ros/unitree_legged_control:Hector_ROS_Simulation/unitree_ros/unitree_legged_msgs
+-DCATKIN_DEVEL_PREFIX=/home/yan/workspace/robotworkspace_3/devel -DCMAKE_INSTALL_PREFIX=/home/yan/workspace/robotworkspace_3/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/yan/workspace/robotwork_space_2/devel
+
+Name: unitree_legged_control
+Description: Description of unitree_legged_control
+Version: 0.0.0
+Cflags: -I/home/yan/workspace/robotwork_space_2/src/Hector_Simulation/Hector_ROS_Simulation/unitree_ros/unitree_legged_control/include
+Libs: -L${prefix}/lib -lunitree_legged_control
+Requires: unitree_legged_msgs controller_interface hardware_interface pluginlib roscpp

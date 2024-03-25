@@ -1,0 +1,8 @@
+prefix=/home/yan/workspace/ros_sercli_workspace_test/install
+
+Name: print_pose
+Description: Description of print_pose
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

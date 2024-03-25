@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/yan/workspace/robot_test/devel -DCMAKE_INSTALL_PREFIX=/home/yan/workspace/robot_test/install -G Unix Makefiles

@@ -1,0 +1,16 @@
+<launch>
+    <node pkg="test" type="talker_person" name="talker_person" output="screen"/>
+    <node pkg="test" type="listener_person" name="listener_person" output="screen"/>
+</launch>
+
+
+
+
+
+
+
+
+
+
+
+

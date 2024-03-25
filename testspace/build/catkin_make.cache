@@ -1,0 +1,2 @@
+get_turtle_node:send_pose
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/yan/workspace/testspace/devel -DCMAKE_INSTALL_PREFIX=/home/yan/workspace/testspace/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/yan/workspace/ros_sercli_workspace_test/devel
+
+Name: get
+Description: Description of get
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

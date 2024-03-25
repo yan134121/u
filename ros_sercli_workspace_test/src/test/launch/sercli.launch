@@ -1,0 +1,10 @@
+<launch>
+
+<node pkg="test" name="sercli_Server" type="sercli_Server" output="screen"/>
+<node pkg="test" name="sercli_Client" type="sercli_Client" output="screen" >
+
+    <param name="num1" type="int" value="3"/>
+    <param name="num2" type="int" value="3"/>
+   
+    </node>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/yan/workspace/testspace/devel
+
+Name: send_pose
+Description: Description of send_pose
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

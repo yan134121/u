@@ -1,0 +1,8 @@
+prefix=/home/yan/workspace/ros_sercli_workspace_test/devel
+
+Name: my_TF
+Description: Description of my_TF
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs tf2 tf2_geometry_msgs tf2_ros
